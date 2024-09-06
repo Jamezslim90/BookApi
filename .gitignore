@@ -1,0 +1,4 @@
+store.db
+venv
+venv/
+.env
